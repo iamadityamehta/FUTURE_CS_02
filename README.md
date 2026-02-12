@@ -4,20 +4,23 @@
 To analyze phishing email samples and identify security risks.
 
 ## Tools Used
-- MXToolbox Header Analyzer
-- Browser inspection
+- Manual email inspection
+- Browser link analysis
+- Visual content analysis
 
-## Summary
-Three phishing email samples were analyzed.
-Indicators such as fake domains, urgency tactics, and mismatched links were identified.
+## Analysis Approach
+Each phishing email was examined for:
+- Suspicious sender domain
+- Urgency tactics
+- Grammar errors
+- Mismatched links
+- Requests for sensitive information
 
 ## Risk Classification
-- Email 1 – High Risk
-- Email 2 – High Risk
-- Email 3 – Suspicious
+All analyzed emails were classified as HIGH risk due to clear phishing indicators.
 
-## Awareness Guidelines
-Basic prevention steps are included in the report.
+## Outcome
+This task demonstrates understanding of phishing detection and user awareness practices.
 
 ---
 
