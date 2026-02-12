@@ -18,3 +18,10 @@ Indicators such as fake domains, urgency tactics, and mismatched links were iden
 
 ## Awareness Guidelines
 Basic prevention steps are included in the report.
+
+---
+
+### 👨‍💻 Author
+Aditya Mehta  
+B.E. IT | Cybersecurity Enthusiast  
+
