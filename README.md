@@ -1,2 +1,20 @@
-# FUTURE_CS_02
-Showcasing the work of the 2nd task of cybersecurity I've done during the internship at future interns.
+# FUTURE_CS_02 – Phishing Detection & Awareness
+
+## Objective
+To analyze phishing email samples and identify security risks.
+
+## Tools Used
+- MXToolbox Header Analyzer
+- Browser inspection
+
+## Summary
+Three phishing email samples were analyzed.
+Indicators such as fake domains, urgency tactics, and mismatched links were identified.
+
+## Risk Classification
+- Email 1 – High Risk
+- Email 2 – High Risk
+- Email 3 – Suspicious
+
+## Awareness Guidelines
+Basic prevention steps are included in the report.
